@@ -1,0 +1,18 @@
+========== CONTRACTOR INVOICE ==========
+Contractor: Test
+Project: Test
+Client: Test
+Contact: 5432
+---------------------------------------
+Materials:
+Item            Qty      Unit Price      Total          
+-------------------------------------------------------
+Motor           47       ₵14.00         ₵658.00       
+---------------------------------------
+Labor Cost:               ₵425.00
+Materials Total:          ₵658.00
+Subtotal:               ₵1,083.00
+VAT (15%):              ₵162.45
+TOTAL:                  ₵1,245.45
+=======================================
+Generated on 8/30/2025 8:47:33 AM

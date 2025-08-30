@@ -1,0 +1,19 @@
+========== CONTRACTOR INVOICE ==========
+Contractor: Mr. Mutali
+Project: Project H
+Client: Mr. Smart
+Contact: 01254785625
+---------------------------------------
+Materials:
+Item            Qty      Unit Price      Total          
+-------------------------------------------------------
+Cement          47       $456.00         $21,432.00     
+Iron Rods       478      $45,896.00      $21,938,288.00 
+---------------------------------------
+Labor Cost:               $478.00
+Materials Total:   $21,959,720.00
+Subtotal:          $21,960,198.00
+VAT (15%):        $3,294,029.70
+TOTAL:             $25,254,227.70
+=======================================
+Generated on 8/30/2025 8:41:58 AM

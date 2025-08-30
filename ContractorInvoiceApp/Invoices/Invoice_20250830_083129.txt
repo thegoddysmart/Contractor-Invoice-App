@@ -1,0 +1,17 @@
+========== CONTRACTOR INVOICE ==========
+Contractor: Mr. Goddy
+Project: Project Hostel
+Client: Mr. Smart
+Contact: 0214253697
+---------------------------------------
+Materials:
+- Cement x14 @ $452.00 = $6,328.00
+- iron rods x47 @ $457.00 = $21,479.00
+---------------------------------------
+Labor Cost: $42.00
+Materials Total: $27,807.00
+Subtotal: $27,849.00
+VAT (15%): $4,177.35
+TOTAL: $32,026.35
+=======================================
+Generated on 8/30/2025 8:31:28 AM

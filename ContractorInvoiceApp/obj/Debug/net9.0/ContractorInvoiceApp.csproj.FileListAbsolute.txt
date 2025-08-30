@@ -1,0 +1,15 @@
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\bin\Debug\net9.0\ContractorInvoiceApp.exe
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\bin\Debug\net9.0\ContractorInvoiceApp.deps.json
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\bin\Debug\net9.0\ContractorInvoiceApp.runtimeconfig.json
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\bin\Debug\net9.0\ContractorInvoiceApp.dll
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\bin\Debug\net9.0\ContractorInvoiceApp.pdb
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.AssemblyInfoInputs.cache
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.AssemblyInfo.cs
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.csproj.CoreCompileInputs.cache
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.sourcelink.json
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.dll
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\refint\ContractorInvoiceApp.dll
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.pdb
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ContractorInvoiceApp.genruntimeconfig.cache
+C:\thegoddysmart\Coding\C#\Contractor-Invoice-App\ContractorInvoiceApp\obj\Debug\net9.0\ref\ContractorInvoiceApp.dll
