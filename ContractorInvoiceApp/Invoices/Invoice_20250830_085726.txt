@@ -1,0 +1,18 @@
+========== CONTRACTOR INVOICE ==========
+Contractor: Sma
+Project: Project A
+Client: mr. Smart
+Contact: 21969654
+---------------------------------------
+Materials:
+Item            Qty      Unit Price      Total          
+-------------------------------------------------------
+Cement          1400     ₵145.00        ₵203,000.00   
+---------------------------------------
+Labor Cost:             ₵4,796.00
+Materials Total:      ₵203,000.00
+Subtotal:             ₵207,796.00
+VAT (15%):           ₵31,169.40
+TOTAL:                ₵238,965.40
+=======================================
+Generated on 8/30/2025 8:57:26 AM

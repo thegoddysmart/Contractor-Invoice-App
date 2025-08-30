@@ -1,0 +1,19 @@
+Invoice No: INV001
+========== CONTRACTOR INVOICE ==========
+Contractor: Mr. A
+Project: Project A
+Client: Kofi
+Contact: 4785
+---------------------------------------
+Materials:
+Item            Qty      Unit Price      Total          
+-------------------------------------------------------
+Cement          20       ₵447.00        ₵8,940.00     
+---------------------------------------
+Labor Cost:               ₵147.00
+Materials Total:        ₵8,940.00
+Subtotal:               ₵9,087.00
+VAT (15%):            ₵1,363.05
+TOTAL:                 ₵10,450.05
+=======================================
+Generated on 8/30/2025 9:06:39 AM

@@ -4,6 +4,7 @@ namespace ContractorInvoiceApp.Models
 {
     class Invoice
     {
+        public string InvoiceNumber { get; set; } // I am adding an invoicenumber property here
         public Contractor Contractor { get; set; }
         public List<Material> Materials { get; set; } = new List<Material>();
         public decimal LaborCost { get; set; }
